@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Me
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+I am currently pursuing Computer Science and Engineering at [Indian Institute of Technology, Roorkee][IITR].
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I was born and raised in Bathinda, Punjab and did my schooling from [St. Joseph's Convent School][JOSEPH]. I am deeply into sports and to be particular love to play cricket and badminton. After school, I took the JEE exam and got an All India Rank of 499 and landed up in IIT Roorkee, a decision which I will never regret.
 
-## Preview
+I am fluent in C, C++, JavaScript, AngularJS and Python.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Contact me on my [E-Mail][mail].
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[IITR]:  https://www.iitr.ac.in/
+[JOSEPH]: http://www.stjosephsbathinda.org/
+[MDG]:   https://mobile.sdslabs.co/
+[mail]:  mailto:nitishbansal2297@gmail.com
